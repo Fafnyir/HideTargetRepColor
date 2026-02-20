@@ -1,4 +1,4 @@
-## Interface: 120000
+## Interface: 120000, 120001
 
 ## Title: |cFFFFFFFFHide Target Rep Color|r
 ## Notes: Removes the colored background behind the target name frame
