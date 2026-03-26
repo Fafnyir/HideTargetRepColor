@@ -1,9 +1,9 @@
 ## Interface: 120000, 120001
 
-## Title: |cFF0070DDHide Target Rep Color|r
+## Title: |cFF6600CCHide Target Rep Color|r
 ## Notes: Removes the colored background behind the target name frame
 ## IconTexture: Interface\AddOns\HideTargetRepColor\logo\AddonLogo
-## Category-enUS: |cFF0070DDFafnyirs|r |cFFFFFFFFHoard|r
+## Category-enUS: |cFF6600CCFafnyirs|r |cFFFFFFFFHoard|r
 ## Author: Fafnyir
 ## Version: 1.0
 
